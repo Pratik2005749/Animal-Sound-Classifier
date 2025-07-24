@@ -1,0 +1,10 @@
+tensorflow
+librosa
+numpy
+scikit-learn
+noisereduce
+scipy
+gradio
+soundfile
+audioread
+pooch
